@@ -4,6 +4,6 @@ This project does the following
 3) It determines which retailers sold the most women's athletic footwear.
 4) Finally, it determines which day and week had the highest sales for women's athletic footwear.
 
-The code in this project is written in Python using the Pandas library. It uses several Pandas functions such as contact, join, merge etc and also uses DataFrames and Pivot tables.
+The code in this project is written in Python using the Pandas library. It uses several Pandas functions such as concat, join, groupby, sort etc and also uses DataFrames and Pivot tables.
 
 The project can be run on either Visual Studio Code or Jupyter.
